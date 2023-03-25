@@ -31,7 +31,7 @@ body{
     padding: 1.5rem;
 }
 
-.header{
+header{
     margin-top: 1.5rem;
     font-size: 16px;
     font-weight: 400 700;
@@ -39,7 +39,7 @@ body{
     display: flex;
 }
 
-.description p{
+article p{
    margin-top: 5%; 
    font-size: 15px;
    text-align: center
